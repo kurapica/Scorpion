@@ -19,5 +19,8 @@
 localization\enUS.lua
 localization\zhCN.lua
 
+# Framework
+framework\Core.lua
+
 # Core
 Scorpion.lua
